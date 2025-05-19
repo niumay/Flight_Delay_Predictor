@@ -1,9 +1,9 @@
 # Flight_Delay_Predictor
 
 This project is to analyize flight delay data from the Bureay of Transportation Statistics (BTS) and create models to predict whether a flight is likely to be delayed. This is split into three part: data cleaning, data analysis, and modeling. 
-
-\textbf{Data Cleaning}
-
+**
+Data Cleaning
+**
 From the data, we'll first clean out any non-numeric or NaN columns that wouldn't affect the flight data. 
 
 
